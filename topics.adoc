@@ -9,10 +9,11 @@ improvements to our environmental sustainability?
 
 Good overviews are provided by:
 
-* "http://www.computer.org/portal/web/computingnow/archive/april2013?lf1=397430793e276716031811f7851084[How
-Green is Your IT?]" in Computing Now, 2013
-* Bret Victor's 2015 blog post on "http://worrydream.com/ClimateChange[What can a technologist do
-about climate change?]"
+* http://www.computer.org/portal/web/computingnow/archive/april2013?lf1=397430793e276716031811f7851084[How
+Green is Your IT?] in Computing Now, 2013
+* Bret Victor's 2015 blog post on http://worrydream.com/ClimateChange[What can a technologist do
+about climate change?]
+
 
 Below is a list of topics:
 
@@ -51,12 +52,20 @@ https://www.energydeck.com[energyDECK], http://verdigris.co[VERDIGRIS]).
 
 == Transport
 
-* Computer-controlled rigid sails on cargo ships (can save up to 20% of
-fuel, apparently) (see
-http://www.bluebird-electric.net/wind_powered_ships_marine_renewable_energy_research.htm[Bluebird-Electric]
-and https://www.youtube.com/watch?v=IzGCYaJbf0A[this video] and the
-wikipedia page on https://en.wikipedia.org/wiki/Windmill_ship[Windmill
-ships].)
+=== Computer-controlled rigid sails on cargo ships
+
+image::http://www.bluebird-electric.net/boats_images/sails_cargo_ship_jamda_shin_aitoku_wind_energy_research.jpg[]
+
+Can save up to 20% of fuel, apparently.
+
+Links:
+
+* http://www.bluebird-electric.net/wind_powered_ships_marine_renewable_energy_research.htm[Bluebird-Electric]
+* https://www.youtube.com/watch?v=IzGCYaJbf0A[This video of a windmill catamaran
+yacht]
+* the
+Wikipedia page on https://en.wikipedia.org/wiki/Windmill_ship[Windmill
+ships].
 
 
 == Making computer systems more efficient
@@ -85,9 +94,10 @@ spoke about this at SenSys 2015].
 === Wind power
 
 * Using machine learning to optimise wind turbine pitch angle (e.g.
-http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer, 2009])
+http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer 2009])
 * Do a better job of modelling wind wake from turbines to optimise
-placement of individual turbines in a wind farm.
+placement of individual turbines in a wind farm.  e.g. see http://dx.doi.org/10.1002/we.458[Review of
+computational fluid dynamics for wind turbine wake aerodynamics] by Sanderse; van der Pijl & Koren; 2011.
 
 
 === Fossil fuel generation

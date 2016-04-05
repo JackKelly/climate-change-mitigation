@@ -4,8 +4,7 @@ Computer science has a significant role to play in reducing humanity's
 impact on the environment.
 
 This repository will keep lists of relevant resources and research
-topics for computer scientists who are interested in helping to
-mitigate climate change.
+topics for computer scientists who want to mitigate climate change.
 
 
 == Contributing
@@ -25,8 +24,8 @@ Here's how to contribute to this repository:
 
 == Contents
 
-* ./topics.adoc[Topics]
-* ./events.adoc[Events]
-* ./online-discussions.adoc[Online discussions]
-* ./organisations.adoc[Organisations]
-* ./people.adoc[People]
+* link:topics.adoc[Topics]
+* link:events.adoc[Events]
+* link:online-discussions.adoc[Online discussions]
+* link:organisations.adoc[Organisations]
+* link:people.adoc[People]
