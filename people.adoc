@@ -1,0 +1,13 @@
+= People using computer science to help to mitigate climate change
+
+(by no means an exhaustive list!)
+
+* http://www.youtube.com/watch?v=fGJhvmvPizs["Data Science for
+Sustainabililty"] Cleanweb 2013 talk
+* http://floppy.org.uk/[James Smith] (Therm, AMEE, Green Thing,
+http://theodi.org[Open Data Institute], Cleanweb)
+* http://www.dgen.net/blog/overview/[Gavin Starks] (Amee,
+http://theodi.org[Open Data Institute])
+* https://twitter.com/JackTownsend_[Jack Townsend] "Exploring potential
+of #internet & #opendata to benefit #sustainability, #energy & #climate.
+#Web scholar at @unisouthampton. #Cleanweb, @CleanwebUK, @OpenSusty"

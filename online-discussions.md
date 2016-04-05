@@ -1,4 +1,0 @@
-* [Quora: Can software developers or computer scientists contribute to making renewable energy more cost-effective?](https://www.quora.com/Can-software-developers-or-computer-scientists-contribute-to-making-renewable-energy-more-cost-effective)
-* [Quora: How can a young Software Developer make a difference in the areas of Climate Change, Renewable Energy and Environmental Issues?](https://www.quora.com/How-can-a-young-Software-Developer-make-a-difference-in-the-areas-of-Climate-Change-Renewable-Energy-and-Environmental-Issues)
-* [Quora: How can computer science contribute to the production of renewable energy?](https://www.quora.com/How-can-computer-science-contribute-to-the-production-of-renewable-energy)
-* [Quora: How can a computer scientist most effectively help make society more environmentally sustainable?](https://www.quora.com/How-can-a-computer-scientist-most-effectively-help-make-society-more-environmentally-sustainable)
