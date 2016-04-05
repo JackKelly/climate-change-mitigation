@@ -10,7 +10,11 @@ mitigate climate change.
 
 == Contributing
 
-Contributions are most welcome!  Here's how to contribute:
+Contributions are most welcome!  This book uses
+http://asciidoctor.org/[the AsciiDoc format] (just as easy to write as
+markdown but _way_ more powerful).
+
+Here's how to contribute to this repository:
 
 * Fork this repository, make your changes and then send me a pull
   request (PR).
