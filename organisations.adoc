@@ -6,12 +6,12 @@
 * http://sustainability.okfn.org[The Open Sustainability Working Group]
 - mailing list and blog - "__seeks to advocate and promote the opening
 up of sustainability information and datasets__"
+* http://www.cleanweb.org.uk/[Cleanweb UK] run regular
+http://www.cleanweb.org.uk/events.html[meetups]
 * https://www.demandlogic.co.uk/[Demand Logic], a web-based
 energy-saving system for commercial buildings -
 http://www.youtube.com/watch?v=4tX840YOoys[video]
-* http://www.cleanweb.org.uk/[Cleanweb UK] run regular
-http://www.cleanweb.org.uk/events.html[meetups]
-* http://www.energydeck.com/home/[Energy Deck] - "A powerful,
+* http://www.energydeck.com/home/[Energy Deck], "A powerful,
 community-based platform that helps organisations save energy costs"
 
 
@@ -23,8 +23,7 @@ Chicago. "We’re training data scientists to tackle problems that really
 matter."
 http://www.fastcoexist.com/1682711/these-data-science-mercenaries-will-make-the-world-a-better-place[Magazine
 article on DSSG]
-*
-http://www.ornl.gov/science-discovery/clean-energy/research-areas/climate-environment/environmental-data-science-and-systems[Oak
+* http://www.ornl.gov/science-discovery/clean-energy/research-areas/climate-environment/environmental-data-science-and-systems[Oak
 Ridge National Laboratory's Environmental Data Science and Systems]
 * http://www.meetup.com/Data-Science-for-Sustainability/[Data Science
 for Sustainability] Meetup in Redwood City, California hosted at
