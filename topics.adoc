@@ -1,18 +1,12 @@
 = Topics
 :toc:
 
-This page is a non-exhaustive list of interesting subject areas for
-folks who, like me, are interested in both computer science and
-environmental sustainability. It aims to provide an (incomplete) answer
-to the question: How can a computer scientist contribute measurable
-improvements to our environmental sustainability?
+This page is a non-exhaustive list of interesting subject areas for folks who, like me, are interested in both computer science and environmental sustainability. It aims to provide an (incomplete) answer to the question: How can a computer scientist contribute measurable improvements to our environmental sustainability?
 
 Good overviews are provided by:
 
-* http://www.computer.org/portal/web/computingnow/archive/april2013?lf1=397430793e276716031811f7851084[How
-Green is Your IT?] in Computing Now, 2013
-* Bret Victor's 2015 blog post on http://worrydream.com/ClimateChange[What can a technologist do
-about climate change?]
+* http://www.computer.org/portal/web/computingnow/archive/april2013?lf1=397430793e276716031811f7851084[How Green is Your IT?] in Computing Now, 2013
+* Bret Victor's 2015 blog post on http://worrydream.com/ClimateChange[What can a technologist do about climate change?]
 
 
 Below is a list of topics:
@@ -21,38 +15,54 @@ Below is a list of topics:
 == Buildings
 
 
-* Smart meter disaggregation: estimate an itemised energy bill from a
-single smart meter. Not clear how much energy this would save across the
-entire population though.
-* "Intelligent" heating controls - try to only heat the rooms which are
-occupied; and only do so when the house is occupied.
-* Never-mind "smart" heating controls, just a concerted effort to make
-'bog standard' heating controls more user-friendly would probably go a
-long way towards helping. How about an open-source, well designed
-controller that makes it really easy to understand what's going on.
-* Modelling the energy usage of buildings (e.g. see
-https://teddinet.org/2016/03/23/special-section-of-energy-buildings-advances-in-building-energy-modeling-and-simulation/[this
-special section in the journal Energy & Buildings on 'Advances in
-Building Energy Modeling and Simulation'])
-* Demand response
+.Smart meter disaggregation
+
+Estimate an itemised energy bill from a single smart meter. Not clear how much energy this would save across the entire population though.
+
+
+.Heating controls
+
+"Intelligent" controls which try to only heat the rooms which are occupied; and only do so when the house is occupied.
+
+Never-mind "smart" heating controls, just a concerted effort to make 'bog standard' heating controls more user-friendly would probably go a long way towards helping. How about an open-source, well designed controller that makes it really easy to understand what's going on.
+
+
+.Modelling the energy usage of buildings
+
+e.g. see https://teddinet.org/2016/03/23/special-section-of-energy-buildings-advances-in-building-energy-modeling-and-simulation/[this special section in the journal Energy & Buildings on 'Advances in Building Energy Modeling and Simulation'].
+
+
+.Demand response
+
+Demand response doesn't reduce total _energy_ consumption, but it can reduce _carbon emissions_ by allowing the grid to accommodate more intermittent, renewable generation.
+
 
 
 === Commercial / industrial buildings
 
-* Football pitches heat the grass to optimise the growth rate. Existing
-pitches have very primitive controls.
-https://www.researchgate.net/publication/283510972_Energy_Efficiency_Gains_in_Daily_Grass_Heating_Operation_of_Sports_Facilities_through_Supervisory_Holistic_Control[NEC
-presented work on this topic at BuildSys2015]
-* Analyse and present data on the behaviour of appliances in large
-buildings; hence allowing building managers to reduce energy consumption
-(companies already doing this include
-http://www.demandlogic.co.uk[Demand Logic],
-https://www.energydeck.com[energyDECK], http://verdigris.co[VERDIGRIS]).
+.Football pitches
 
+Football pitches heat the grass to optimise the growth rate. Existing pitches have very primitive controls. https://www.researchgate.net/publication/283510972_Energy_Efficiency_Gains_in_Daily_Grass_Heating_Operation_of_Sports_Facilities_through_Supervisory_Holistic_Control[NEC presented work on this topic at BuildSys2015].
+
+.Analyse and present data on the behaviour of appliances and machines in large buildings
+
+Hence allowing building managers to reduce energy consumption.
+
+In the USA in 2012, commercial buildings used 2 trillion kWh of total energy (http://www.eia.gov/consumption/commercial/reports/2012/energyusage/index.cfm[according to the EIA]).  In the UK, commercial buildings are responsible for 10% of the UK's emissions (http://www.policyconnect.org.uk/wsbf/sites/site_wsbf/files/report/403/fieldreportdownload/wsbfreport-buildingefficiencypdf.pdf[ref]).
+
+Companies already doing this include:
+
+* http://www.demandlogic.co.uk[Demand Logic]
+* https://www.energydeck.com[energyDECK]
+* http://verdigris.co[VERDIGRIS]
+
+The basic idea is that buildings waste lots of energy (e.g. rooms which are simultaneously cooled and heated).  And one might hope that commercial operators would be 'economically rational' and hence would be willing to invest a little time and money to save energy.
+
+However, there is evidence that even commercial building operators aren't very highly motivated to save energy.  e.g. see the 2014 article in the Guardian on http://www.theguardian.com/sustainable-business/energy-efficient-buildings-savings-challenges-behavior-change-research["Too big to save: why commercial buildings resist energy efficiency"].
 
 == Transport
 
-=== Computer-controlled rigid sails on cargo ships
+.Computer-controlled rigid sails on cargo ships
 
 image::http://www.bluebird-electric.net/boats_images/sails_cargo_ship_jamda_shin_aitoku_wind_energy_research.jpg[]
 
@@ -73,72 +83,70 @@ ships].
 
 === Individual machines
 
-* Energy efficient OS scheduling (e.g. tinkering with the Linux kernel
-scheduler; although it appears that the Linux scheduler has been very
-good at minimising energy usage since at least 2.6.38)
+.Energy efficient OS scheduling
+
+e.g. tinkering with the Linux kernel scheduler; although it appears that the Linux scheduler has been very good at minimising energy usage since at least 2.6.38.
 
 
 === Data centres
 
-* Teach Hadoop how to put nodes to sleep
-(https://www.zotero.org/jack_kelly/items/collectionKey/ECEHDVKX[here's a
-list of papers on the topic])
-* Use large computational-fluid-dynamics to model air flow through an
-entire data centre to optimise the cooling system. IBM have done work on
-this: http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM
-spoke about this at SenSys 2015].
+.Teach Hadoop how to put nodes to sleep
+
+https://www.zotero.org/jack_kelly/items/collectionKey/ECEHDVKX[Here's a
+list of papers on the topic].
+
+
+.Model air flow through an entire data centre to optimise the cooling system
+
+IBM have done work on this: http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
 
 
 == Energy production
 
 === Wind power
 
-* Using machine learning to optimise wind turbine pitch angle (e.g.
-http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer 2009])
-* Do a better job of modelling wind wake from turbines to optimise
-placement of individual turbines in a wind farm.  e.g. see http://dx.doi.org/10.1002/we.458[Review of
-computational fluid dynamics for wind turbine wake aerodynamics] by Sanderse; van der Pijl & Koren; 2011.
+.Using machine learning to optimise wind turbine pitch angle
+
+e.g. http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer 2009].
+
+.Model wind wake from turbines to optimise placement of individual turbines in a wind farm
+
+e.g. see http://dx.doi.org/10.1002/we.458[Review of computational fluid dynamics for wind turbine wake aerodynamics] by Sanderse; van der Pijl & Koren; 2011.
 
 
 === Fossil fuel generation
 
-* Optimising fossil-fuel fired electricity generation (e.g.
-http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009])
+.Optimising fossil-fuel fired electricity generation
+
+e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
 
 
 === Solar power
 
-* Solar tracking for solar farms
-* Predicting output of wind and solar farms - e.g. using video camera
-with a fish-eye lens looking up at the sky to predict when cloud cover
-will pass over a solar array - even being able to predict power output a
-few minutes into the future can help the grid to respond -
-http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke
-about this at SenSys 2015].
+.Solar tracking for solar farms
+
+-
+
+.Predicting output of wind and solar farms
+
+e.g. using video camera with a fish-eye lens looking up at the sky to predict when cloud cover will pass over a solar array - even being able to predict power output a few minutes into the future can help the grid to respond - http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
 
 
 == Agriculture
 
-* Efficient and adaptive water management - IBM have done work on using
-aerial photography to detect dry ground in a vineyard and then control
-water distribution to target the driest parts of the vineyard:
-http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke
-about this at SenSys 2015].
+.Efficient and adaptive water management
+
+IBM have done work on using aerial photography to detect dry ground in a vineyard and then control water distribution to target the driest parts of the vineyard: http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
 
 
 == Detecting environmental change
 
-* Google Earth Engine is "__a planetary-scale platform for Earth science
-& data analysis - Google Earth Engine combines a multi-petabyte catalog
-of satellite imagery and geospatial datasets with planetary-scale
-analysis capabilities and makes it available for scientists,
-researchers, and developers to detect changes, map trends, and quantify
-differences on the Earth's surface.__" One use-case was
-https://en.wikipedia.org/wiki/Google_Earth_Engine#Deforestation[detecting
-deforestation in "near real time"].
+.Google Earth Engine
+
+Google Earth Engine is "__a planetary-scale platform for Earth science & data analysis - Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.__" One use-case was https://en.wikipedia.org/wiki/Google_Earth_Engine#Deforestation[detecting deforestation in "near real time"].
 
 
 == Climate science
 
-* Analysing today's climate and forecasting future climates is very,
+Analysing today's climate and forecasting future climates is very,
 very compute-intensive.
