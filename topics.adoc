@@ -114,13 +114,6 @@ e.g. http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer 2009].
 e.g. see http://dx.doi.org/10.1002/we.458[Review of computational fluid dynamics for wind turbine wake aerodynamics] by Sanderse; van der Pijl & Koren; 2011.
 
 
-=== Fossil fuel generation
-
-.Optimising fossil-fuel fired electricity generation
-
-e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
-
-
 === Solar power
 
 .Solar tracking for solar farms
@@ -130,6 +123,13 @@ e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
 .Predicting output of wind and solar farms
 
 e.g. using video camera with a fish-eye lens looking up at the sky to predict when cloud cover will pass over a solar array - even being able to predict power output a few minutes into the future can help the grid to respond - http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
+
+
+=== Fossil fuel generation
+
+.Optimising fossil-fuel fired electricity generation
+
+e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
 
 
 == Agriculture
