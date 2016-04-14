@@ -87,6 +87,14 @@ ships].
 
 e.g. tinkering with the Linux kernel scheduler; although it appears that the Linux scheduler has been very good at minimising energy usage since at least 2.6.38.
 
+.More efficient displays
+
+* http://people.csail.mit.edu/rinard/paper/eurosys16.crayon.pdf["Crayon: Saving Power through Shape and Color Approximation on Next-Generation Displays"] by Stanley-Marbell, Estellers and Rinard, 2016.
+
+.More efficient computation
+
+* Make compilers optimise for energy efficiency.
+* http://people.csail.mit.edu/rinard/paper/oopsla15.pdf["Approximate Computation With Outlier Detection in Topaz"] by Achour and Rinard, 2015.
 
 === Data centres
 
