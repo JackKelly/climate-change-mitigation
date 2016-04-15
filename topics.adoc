@@ -113,6 +113,8 @@ IBM have done work on this: http://sensys.acm.org/2015/keynote/#hendrik[Dr Haman
 
 === Wind power
 
+See http://orbit.dtu.dk/ws/files/120954163/Long_term_research_challenges.pdf["Long-term research challenges in wind energy–a research agenda by the European Academy of Wind Energy"] 2016.
+
 .Using machine learning to optimise wind turbine pitch angle
 
 e.g. http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer 2009].
@@ -121,6 +123,9 @@ e.g. http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer 2009].
 
 e.g. see http://dx.doi.org/10.1002/we.458[Review of computational fluid dynamics for wind turbine wake aerodynamics] by Sanderse; van der Pijl & Koren; 2011.
 
+.Predictive maintanance
+
+e.g. see http://dx.doi.org/10.1016/j.rser.2015.11.032["A review of wind turbine bearing condition monitoring: State of the art and challenges"].
 
 === Solar power
 
@@ -138,6 +143,11 @@ e.g. using video camera with a fish-eye lens looking up at the sky to predict wh
 .Optimising fossil-fuel fired electricity generation
 
 e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
+
+
+== Energy System modelling
+
+e.g. see the overview of the UCL Energy Institute's http://www.bartlett.ucl.ac.uk/energy/research/themes/energy-systems[Energy Systems team].
 
 
 == Agriculture
