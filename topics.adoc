@@ -111,9 +111,16 @@ IBM have done work on this: http://sensys.acm.org/2015/keynote/#hendrik[Dr Haman
 
 == Energy production
 
+See:
+
+* Perera, Aung & Lee Woon 2014 http://dare2014.dnagroup.org/files/DARE07.pdf["Machine Learning Techniques for Supporting Renewable Energy Generation and Integration: A Survey"]
+
 === Wind power
 
-See http://orbit.dtu.dk/ws/files/120954163/Long_term_research_challenges.pdf["Long-term research challenges in wind energy–a research agenda by the European Academy of Wind Energy"] 2016.
+See:
+
+* http://orbit.dtu.dk/ws/files/120954163/Long_term_research_challenges.pdf["Long-term research challenges in wind energy–a research agenda by the European Academy of Wind Energy"] 2016.
+* Bovet & Iglesias, 2013, http://cs229.stanford.edu/proj2013/CS_229_Final_Report.pdf["Guiding Wind Farm Optimization with Machine Learning"]
 
 .Using machine learning to optimise wind turbine pitch angle
 
