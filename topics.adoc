@@ -37,7 +37,6 @@ e.g. see https://teddinet.org/2016/03/23/special-section-of-energy-buildings-adv
 Demand response doesn't reduce total _energy_ consumption, but it can reduce _carbon emissions_ by allowing the grid to accommodate more intermittent, renewable generation.
 
 
-
 === Commercial / industrial buildings
 
 .Football pitches
@@ -150,6 +149,11 @@ e.g. using video camera with a fish-eye lens looking up at the sky to predict wh
 .Optimising fossil-fuel fired electricity generation
 
 e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
+
+
+== Energy storage
+
+e.g. see http://www.greentechmedia.com/articles/read/geli-raises-7m-to-take-energy-storage-software-to-the-next-level[Growing Energy Labs Inc.], based in San Francisco.
 
 
 == Energy System modelling
