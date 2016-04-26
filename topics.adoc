@@ -155,6 +155,7 @@ e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
 
 e.g. see http://www.greentechmedia.com/articles/read/geli-raises-7m-to-take-energy-storage-software-to-the-next-level[Growing Energy Labs Inc.], based in San Francisco: *"the same underlying technology that goes into modeling, designing and implementing storage projects will run the systems when they're turned on, both to manage their technical performance and to track their financial performance."*
 
+Countries like India, where the grid is intermittent, are an interesting use-case for grid-scale battery storage.  e.g. see http://www.greentechmedia.com/articles/read/aes-energy-storage-and-panasonic-target-india-for-grid-batteries["AES Energy Storage and Panasonic Target India for Grid Batteries"] (20th April 2016) in Green Tech Media.
 
 == Energy System modelling
 
