@@ -153,7 +153,7 @@ e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
 
 == Energy storage
 
-e.g. see http://www.greentechmedia.com/articles/read/geli-raises-7m-to-take-energy-storage-software-to-the-next-level[Growing Energy Labs Inc.], based in San Francisco.
+e.g. see http://www.greentechmedia.com/articles/read/geli-raises-7m-to-take-energy-storage-software-to-the-next-level[Growing Energy Labs Inc.], based in San Francisco: *"the same underlying technology that goes into modeling, designing and implementing storage projects will run the systems when they're turned on, both to manage their technical performance and to track their financial performance."*
 
 
 == Energy System modelling
