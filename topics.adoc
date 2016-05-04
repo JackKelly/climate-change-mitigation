@@ -76,6 +76,9 @@ yacht]
 Wikipedia page on https://en.wikipedia.org/wiki/Windmill_ship[Windmill
 ships].
 
+.Optimise routes for delivery vehicles and rubbish trucks
+
+e.g. this article: http://www.businessgreen.com/bg/feature/2456428/ups-aims-to-safely-deliver-logistics-clean-tech-through-the-valley-of-death["UPS aims to safely deliver logistics clean tech through the 'Valley of Death'"], Business Green, April 2016
 
 == Making computer systems more efficient
 
