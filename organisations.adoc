@@ -33,3 +33,4 @@ Software-as-a-Service (SaaS) solution to optimize energy use in
 commercial buildings"
 * http://computational-sustainability.cis.cornell.edu[Cornell University
 Institute for Computational Sustainability]
+* http://www.compsust.net/[Computational Sustainability Network]
