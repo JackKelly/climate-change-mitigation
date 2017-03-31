@@ -16,16 +16,16 @@ Below is a list of topics:
 
 
 .Smart meter disaggregation
-
+----
 Estimate an itemised energy bill from a single smart meter. Not clear how much energy this would save across the entire population though.
-
+----
 
 .Heating controls
-
+----
 "Intelligent" controls which try to only heat the rooms which are occupied; and only do so when the house is occupied.
 
 Never-mind "smart" heating controls, just a concerted effort to make 'bog standard' heating controls more user-friendly would probably go a long way towards helping. How about an open-source, well designed controller that makes it really easy to understand what's going on.
-
+----
 
 .Modelling the energy usage of buildings
 
