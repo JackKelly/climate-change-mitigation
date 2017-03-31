@@ -140,19 +140,21 @@ e.g. see http://dx.doi.org/10.1016/j.rser.2015.11.032["A review of wind turbine 
 === Fossil fuel generation
 
 ==== Optimising fossil-fuel fired electricity generation
-
 e.g. http://dx.doi.org/10.1016/j.fuel.2008.10.038[Fengqi et al 2009].
 
 
 == Energy storage
-
 e.g. see http://www.greentechmedia.com/articles/read/geli-raises-7m-to-take-energy-storage-software-to-the-next-level[Growing Energy Labs Inc.], based in San Francisco: *"the same underlying technology that goes into modeling, designing and implementing storage projects will run the systems when they're turned on, both to manage their technical performance and to track their financial performance."*
 
 Countries like India, where the grid is intermittent, are an interesting use-case for grid-scale battery storage.  e.g. see http://www.greentechmedia.com/articles/read/aes-energy-storage-and-panasonic-target-india-for-grid-batteries["AES Energy Storage and Panasonic Target India for Grid Batteries"] (20th April 2016) in Green Tech Media.
 
-== Energy System modelling
 
+== Energy system modelling
 e.g. see the overview of the UCL Energy Institute's http://www.bartlett.ucl.ac.uk/energy/research/themes/energy-systems[Energy Systems team].
+
+
+== Optimising the electricity grid (optimal power flow; unit commitment; economic dispatch; etc.)
+Scheduling generators to meet demand is tricky; especially given increasing levels of renewable generation on grids around the world.  A fast & robust method for solving alternating current optimal power flow could save "tens of billions of dollars" according to this excellent introduction to the field: "https://www.ferc.gov/industries/electric/indus-act/market-planning/opf-papers/acopf-1-history-formulation-testing.pdf[History of Optimal Power Flow and Formulations]" by Cain, O'Neill & Castillo, FERC, 2012
 
 
 == Agriculture
