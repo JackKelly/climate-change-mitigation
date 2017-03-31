@@ -26,26 +26,26 @@ Never-mind "smart" heating controls, just a concerted effort to make 'bog standa
 
 
 === Modelling the energy usage of buildings
-
 e.g. see https://teddinet.org/2016/03/23/special-section-of-energy-buildings-advances-in-building-energy-modeling-and-simulation/[this special section in the journal Energy & Buildings on 'Advances in Building Energy Modeling and Simulation'].
 
 
-=== Demand response
+=== Use robots to apply insulation to old buildings
+See http://www.q-bot.co
 
+
+=== Demand response
 Demand response doesn't reduce total _energy_ consumption, but it can reduce _carbon emissions_ by allowing the grid to accommodate more intermittent, renewable generation.
 
 
 === Football pitches
-
 Football pitches heat the grass to optimise the growth rate. Existing pitches have very primitive controls. https://www.researchgate.net/publication/283510972_Energy_Efficiency_Gains_in_Daily_Grass_Heating_Operation_of_Sports_Facilities_through_Supervisory_Holistic_Control[NEC presented work on this topic at BuildSys2015].
 
 === Analyse and present data on the behaviour of appliances and machines in large buildings
-
 Hence allowing building managers to reduce energy consumption.
 
 In the USA in 2012, commercial buildings used 2 trillion kWh of total energy (http://www.eia.gov/consumption/commercial/reports/2012/energyusage/index.cfm[according to the EIA]).  In the UK, commercial buildings are responsible for 10% of the UK's emissions (http://www.policyconnect.org.uk/wsbf/sites/site_wsbf/files/report/403/fieldreportdownload/wsbfreport-buildingefficiencypdf.pdf[ref]).
 
-Companies already doing this include:
+Companies already analysing the energy behaviour of large buildings include:
 
 * http://www.demandlogic.co.uk[Demand Logic]
 * https://www.energydeck.com[energyDECK]
@@ -58,7 +58,6 @@ However, there is evidence that even commercial building operators aren't very h
 == Transport
 
 === Computer-controlled rigid sails on cargo ships
-
 image::http://www.bluebird-electric.net/boats_images/sails_cargo_ship_jamda_shin_aitoku_wind_energy_research.jpg[]
 
 Can save up to 20% of fuel, apparently.
@@ -73,7 +72,6 @@ Wikipedia page on https://en.wikipedia.org/wiki/Windmill_ship[Windmill
 ships].
 
 === Optimise routes for delivery vehicles and rubbish trucks
-
 e.g. this article: http://www.businessgreen.com/bg/feature/2456428/ups-aims-to-safely-deliver-logistics-clean-tech-through-the-valley-of-death["UPS aims to safely deliver logistics clean tech through the 'Valley of Death'"], Business Green, April 2016
 
 == Making computer systems more efficient
@@ -82,67 +80,61 @@ e.g. this article: http://www.businessgreen.com/bg/feature/2456428/ups-aims-to-s
 === Individual machines
 
 ==== Energy efficient OS scheduling
-
 e.g. tinkering with the Linux kernel scheduler; although it appears that the Linux scheduler has been very good at minimising energy usage since at least 2.6.38.
 
 ==== More efficient displays
-
 * http://people.csail.mit.edu/rinard/paper/eurosys16.crayon.pdf["Crayon: Saving Power through Shape and Color Approximation on Next-Generation Displays"] by Stanley-Marbell, Estellers and Rinard, 2016.
 
 ==== More efficient computation
-
 * Make compilers optimise for energy efficiency.
 * http://people.csail.mit.edu/rinard/paper/oopsla15.pdf["Approximate Computation With Outlier Detection in Topaz"] by Achour and Rinard, 2015.
 
 === Data centres
 
 ==== Teach Hadoop how to put nodes to sleep
-
 https://www.zotero.org/jack_kelly/items/collectionKey/ECEHDVKX[Here's a
 list of papers on the topic].
 
 
 ==== Model air flow through an entire data centre to optimise the cooling system
-
 IBM have done work on this: http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
 
 
 == Energy production
 
+=== Renewable energy productions
+
 See:
 
 * Perera, Aung & Lee Woon 2014 http://dare2014.dnagroup.org/files/DARE07.pdf["Machine Learning Techniques for Supporting Renewable Energy Generation and Integration: A Survey"]
 
-=== Wind power
+==== Predicting output of wind and solar farms
+Doing a better job of predicting the output of renewable generation would help the grid to better utilise that renewable generation.
 
+e.g. using video camera with a fish-eye lens looking up at the sky to predict when cloud cover will pass over a solar array - even being able to predict power output a few minutes into the future can help the grid to respond - http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
+
+==== Wind power
 See:
 
 * http://orbit.dtu.dk/ws/files/120954163/Long_term_research_challenges.pdf["Long-term research challenges in wind energy–a research agenda by the European Academy of Wind Energy"] 2016.
 * Bovet & Iglesias, 2013, http://cs229.stanford.edu/proj2013/CS_229_Final_Report.pdf["Guiding Wind Farm Optimization with Machine Learning"]
 
 
-==== Using machine learning to optimise wind turbine pitch angle
-
+===== Using machine learning to optimise wind turbine pitch angle
 e.g. http://dx.doi.org/10.1016/j.eswa.2009.02.014[Yalmaz & Özer 2009].
 
 
-==== Model wind wake from turbines to optimise placement of individual turbines in a wind farm
-
+===== Model wind wake from turbines to optimise placement of individual turbines in a wind farm
 e.g. see http://dx.doi.org/10.1002/we.458[Review of computational fluid dynamics for wind turbine wake aerodynamics] by Sanderse; van der Pijl & Koren; 2011.
 
-==== Predictive maintanance
-
+===== Predictive maintanance of wind turbines
 e.g. see http://dx.doi.org/10.1016/j.rser.2015.11.032["A review of wind turbine bearing condition monitoring: State of the art and challenges"].
 
-=== Solar power
+==== Solar power
 
-==== Solar tracking for solar farms
+===== Solar tracking for solar farms
 
 -
-
-==== Predicting output of wind and solar farms
-
-e.g. using video camera with a fish-eye lens looking up at the sky to predict when cloud cover will pass over a solar array - even being able to predict power output a few minutes into the future can help the grid to respond - http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
 
 
 === Fossil fuel generation
