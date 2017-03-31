@@ -7,7 +7,7 @@ Good overviews are provided by:
 
 * http://www.computer.org/portal/web/computingnow/archive/april2013?lf1=397430793e276716031811f7851084[How Green is Your IT?] in Computing Now, 2013
 * Bret Victor's 2015 blog post on http://worrydream.com/ClimateChange[What can a technologist do about climate change?]
-
+* Also see Zico Kolter's 2012 video lectures on "https://www.youtube.com/watch?v=jkm_7vUdANs&list=PLTOBJKrkhpoOjsfYdEeKskarea09we9DJ[Computational Methods in Sustainability]"
 
 Below is a list of topics:
 
@@ -155,6 +155,8 @@ e.g. see the overview of the UCL Energy Institute's http://www.bartlett.ucl.ac.u
 
 == Optimising the electricity grid (optimal power flow; unit commitment; economic dispatch; etc.)
 Scheduling generators to meet demand is tricky; especially given increasing levels of renewable generation on grids around the world.  A fast & robust method for solving alternating current optimal power flow could save "tens of billions of dollars" according to this excellent introduction to the field: "https://www.ferc.gov/industries/electric/indus-act/market-planning/opf-papers/acopf-1-history-formulation-testing.pdf[History of Optimal Power Flow and Formulations]" by Cain, O'Neill & Castillo, FERC, 2012
+
+Also see Zico Kolter's 2012 video lectures on "https://www.youtube.com/watch?v=jkm_7vUdANs&list=PLTOBJKrkhpoOjsfYdEeKskarea09we9DJ[Computational Methods in Sustainability]"
 
 
 == Agriculture
