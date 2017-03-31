@@ -20,9 +20,12 @@ Estimate an itemised energy bill from a single smart meter. Not clear how much e
 
 
 === Heating controls
-"Intelligent" controls which try to only heat the rooms which are occupied; and only do so when the house is occupied.
+"Intelligent" controls which try to only heat the rooms which are occupied; and only do so when the house is occupied.  For example, see:
 
-Never-mind "smart" heating controls, just a concerted effort to make 'bog standard' heating controls more user-friendly would probably go a long way towards helping. How about an open-source, well designed controller that makes it really easy to understand what's going on.
+* http://opentrv.org.uk[OpenTRV]
+* https://translate.google.co.uk/translate?hl=en&sl=de&u=http://www.alphaeos.com/&prev=search[AlphaEOS]
+
+Or just a concerted effort to make 'standard' heating controls more user-friendly would probably go a long way towards helping. How about an open-source, well designed controller that makes it really easy to understand what's going on.
 
 
 === Modelling the energy usage of buildings
@@ -54,6 +57,15 @@ Companies already analysing the energy behaviour of large buildings include:
 The basic idea is that buildings waste lots of energy (e.g. rooms which are simultaneously cooled and heated).  And one might hope that commercial operators would be 'economically rational' and hence would be willing to invest a little time and money to save energy.
 
 However, there is evidence that even commercial building operators aren't very highly motivated to save energy.  e.g. see the 2014 article in the Guardian on http://www.theguardian.com/sustainable-business/energy-efficient-buildings-savings-challenges-behavior-change-research["Too big to save: why commercial buildings resist energy efficiency"].
+
+
+=== Building management systems
+Large buildings tend to have building management systems.  Making these more "energy aware" might help to reduce energy consumption.
+
+
+=== Identify losses in district heating networks
+See http://www.fairheat.com
+
 
 == Transport
 
@@ -162,23 +174,40 @@ Also see Zico Kolter's 2012 video lectures on https://www.youtube.com/watch?v=jk
 == Agriculture
 
 ==== Efficient and adaptive water management
-
 IBM have done work on using aerial photography to detect dry ground in a vineyard and then control water distribution to target the driest parts of the vineyard: http://sensys.acm.org/2015/keynote/#hendrik[Dr Hamann from IBM spoke about this at SenSys 2015].
 
 
 == Detecting environmental change
 
 === Google Earth Engine
-
 Google Earth Engine is "__a planetary-scale platform for Earth science & data analysis - Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.__" One use-case was https://en.wikipedia.org/wiki/Google_Earth_Engine#Deforestation[detecting deforestation in "near real time"].
 
 
 == Climate science
-
 Analysing today's climate and forecasting future climates is very,
 very compute-intensive.
 
 
 == Biology
-
 Bioinformatics to help engineer organisms to produce energy from sunlight etc.
+
+
+== Computational material science
+If we could speed up the design of new materials then that could help build better low-carbon generators and improve energy efficiency. See:
+
+* Nosengo, http://www.nature.com/news/can-artificial-intelligence-create-the-next-wonder-material-1.19850[Can artificial intelligence create the next wonder material?], Nature, 2016
+* http://faculty.ims.uconn.edu/MURI/publications/Machine%20learning%20in%20materials%20science%202.pdf[MACHINE LEARNING IN MATERIALS SCIENCE: RECENT PROGRESS AND EMERGING APPLICATIONS], 2016
+* https://arxiv.org/abs/1703.00564[MoleculeNet], a dataset which suggests AI may be ready to rapidly analyze molecules, learn their features, and classify and synthesize new ones
+* https://citrine.io[Citrine.io] - "A.I. Powered Materials Informatics
+Accelerating The Global 1000"
+* https://www.bnl.gov/compsci/projects/deep-learning.php[“Deep Learning for Analysis of Materials Science Data”] - “This project seeks to build automated, streaming analysis pipelines for extracting scientifically-meaningful insights from datasets relevant to materials discovery, especially x-ray scattering images. Our strategy is to develop data-analysis pipelines that serve a dual role: providing experimenters with useful (physically-meaningful) intermediate results, and using these analysis results as inputs to machine-learning methods.”
+* https://arxiv.org/abs/1610.02415[Automatic chemical design using a data-driven continuous representation of molecules] - 2017 - They use unsupervised learning as “this lets us take advantage of large chemical databases containing millions of molecules, even when many properties are unknown for most compounds”.  They use VAE.  “The autoencoder was trained on a dataset with approximately 250,000 drug-like commercially available molecules extracted at random from the ZINC database. We also tested this approach on approximately 100,000 OLED molecules generated combinatorially.”
+* http://cacm.acm.org/careers/213221-machine-learning-method-accurately-predicts-metallic-defects/fulltext[Machine Learning Method Accurately Predicts Metallic Defects] - Feb 2017.
+* http://science.sciencemag.org/content/355/6325/602[Solving the quantum many-body problem with artificial neural networks] - Feb 2017
+
+Books
+* https://www.crcpress.com/Computational-Materials-Science-An-Introduction-Second-Edition/Lee/p/book/9781498749732[Computational Materials Science: An Introduction], Dec 2016, 2nd Edition.
+
+Courses
+* Coursera, https://www.coursera.org/learn/material-informatics[Materials Data Sciences and Informatics]
+* Coursera, https://www.coursera.org/learn/material-science-engineering[“Material Processing”], “you will learn how a material’s properties are determined by the microstructure of the material, which is in turn determined by composition and the processing that the material has undergone.”
