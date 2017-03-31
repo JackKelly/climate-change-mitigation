@@ -7,7 +7,7 @@ Good overviews are provided by:
 
 * http://www.computer.org/portal/web/computingnow/archive/april2013?lf1=397430793e276716031811f7851084[How Green is Your IT?] in Computing Now, 2013
 * Bret Victor's 2015 blog post on http://worrydream.com/ClimateChange[What can a technologist do about climate change?]
-* Also see Zico Kolter's 2012 video lectures on "https://www.youtube.com/watch?v=jkm_7vUdANs&list=PLTOBJKrkhpoOjsfYdEeKskarea09we9DJ[Computational Methods in Sustainability]"
+* Also see Zico Kolter's 2012 video lectures on https://www.youtube.com/watch?v=jkm_7vUdANs&list=PLTOBJKrkhpoOjsfYdEeKskarea09we9DJ["Computational Methods in Sustainability"]
 
 Below is a list of topics:
 
