@@ -206,8 +206,10 @@ Accelerating The Global 1000"
 * http://science.sciencemag.org/content/355/6325/602[Solving the quantum many-body problem with artificial neural networks] - Feb 2017
 
 Books
+
 * https://www.crcpress.com/Computational-Materials-Science-An-Introduction-Second-Edition/Lee/p/book/9781498749732[Computational Materials Science: An Introduction], Dec 2016, 2nd Edition.
 
 Courses
+
 * Coursera, https://www.coursera.org/learn/material-informatics[Materials Data Sciences and Informatics]
 * Coursera, https://www.coursera.org/learn/material-science-engineering[“Material Processing”], “you will learn how a material’s properties are determined by the microstructure of the material, which is in turn determined by composition and the processing that the material has undergone.”
