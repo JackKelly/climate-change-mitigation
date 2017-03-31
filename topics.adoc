@@ -192,7 +192,7 @@ very compute-intensive.
 Bioinformatics to help engineer organisms to produce energy from sunlight etc.
 
 
-== Computational material science
+== Computational materials science
 If we could speed up the design of new materials then that could help build better low-carbon generators and improve energy efficiency. See:
 
 * Nosengo, http://www.nature.com/news/can-artificial-intelligence-create-the-next-wonder-material-1.19850[Can artificial intelligence create the next wonder material?], Nature, 2016
