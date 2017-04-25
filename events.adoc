@@ -1,7 +1,7 @@
 = Conferences, workshops, lecture series on the intersection of CS and
 environmental sustainability
 
-* http://ict4s.org[ICT4S] - the 2016 conference will be Aug 19 - Sep 1 in Amsterdam.
+* http://ict4s.org[ICT4S]
 * https://sites.google.com/site/mlsustws/[NIPS 2013 Machine Learning for
 Sustainability workshop]
 * https://www.youtube.com/playlist?list=PLAsrlO2SCuzAkEnEYx9WcsqsR683F21co[Zico
@@ -12,3 +12,8 @@ Sustainability website]
 * http://www.buildsys.org/[BuildSys: ACM International Conference on
 Embedded Systems for Energy-Efficient Buildings]
 * http://enviroinfo2016.org[EnviroInfo]
+* https://sustainit2017.m-iti.org[SustainIT]
+
+= Competitions
+
+* http://www.greentalents.de[Green Talents] - "The German Federal Ministry of Education and Research (BMBF) hosts the prestigious ” Green Talents – International Forum for High Potentials in Sustainable Development” to promote the international exchange of innovative green ideas. The award, under the patronage of Minister Professor Johanna Wanka, honours young researchers each year. The winners come from numerous countries and scientific disciplines and are recognised for their outstanding achievements in making our societies more sustainable. Selected by a high-ranking jury of German experts the award-winners are granted unique access to the country’s research elite."
