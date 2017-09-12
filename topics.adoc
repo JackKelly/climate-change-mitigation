@@ -29,7 +29,7 @@ Or just a concerted effort to make 'standard' heating controls more user-friendl
 
 
 === Modelling the energy usage of buildings
-e.g. see https://teddinet.org/2016/03/23/special-section-of-energy-buildings-advances-in-building-energy-modeling-and-simulation/[this special section in the journal Energy & Buildings on 'Advances in Building Energy Modeling and Simulation'].
+e.g. see https://teddinet.org/blog/post.php?s=2016-03-23-special-section-of-energy-buildings-advances-in-building-energy-modeling-and-simulation[this special section in the journal Energy & Buildings on 'Advances in Building Energy Modeling and Simulation'].
 
 
 === Use robots to apply insulation to old buildings
