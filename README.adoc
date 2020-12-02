@@ -6,6 +6,9 @@ impact on the environment.
 This repository will keep lists of relevant resources and research
 topics for computer scientists who want to mitigate climate change.
 
+*Update*: See my more recent (October 2019) write-up on
+https://jack-kelly.com/blog/2019-10-03-using-computing-to-fix-climate-change[using computing to fix climate change].
+
 
 == Contributing
 
