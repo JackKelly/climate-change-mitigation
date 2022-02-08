@@ -11,3 +11,4 @@ http://theodi.org[Open Data Institute])
 * https://twitter.com/JackTownsend_[Jack Townsend] "Exploring potential
 of #internet & #opendata to benefit #sustainability, #energy & #climate.
 #Web scholar at @unisouthampton. #Cleanweb, @CleanwebUK, @OpenSusty"
+* https://github.com/lfkopp[L. Filipe Kopp] (PhD Student in CS, UFRJ, Brazil, and UNFCCC/CDM project specialist)
